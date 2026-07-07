@@ -70,7 +70,7 @@ with col1:
 
                 # Call the model natively using the standard stable model ID
                 response = client.models.generate_content(
-                    model='gemini-2.5-flash',
+                    model='gemini-1.5-flash',
                     contents=prompt,
                 )
 
