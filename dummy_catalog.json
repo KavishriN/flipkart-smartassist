@@ -1,0 +1,12 @@
+[
+  {"id": 1, "name": "Puma Moto Running Shoes", "price": 2499, "category": "Footwear", "tags": "sports, running, men, black, shoe, gym, walking"},
+  {"id": 2, "name": "Cotton Floral Summer Kurti", "price": 849, "category": "Apparel", "tags": "women, ethnic, traditional, blue, summer, dress, cotton"},
+  {"id": 3, "name": "Sony WH-CH520 Wireless Headphones", "price": 4499, "category": "Electronics", "tags": "tech, audio, headphones, bluetooth, wireless, bass, sony"},
+  {"id": 4, "name": "Fastrack Minimalist Analog Watch", "price": 1199, "category": "Accessories", "tags": "men, watch, casual, silver, hand watch, analog"},
+  {"id": 5, "name": "Campus Oxyfit Running Shoes", "price": 1399, "category": "Footwear", "tags": "sports, running, men, blue, shoes, walking, budget"},
+  {"id": 6, "name": "Anouk Rayon A-Line Kurta", "price": 699, "category": "Apparel", "tags": "women, ethnic, pink, traditional, festive, dress"},
+  {"id": 7, "name": "boAt Rockerz Bluetooth Earbuds", "price": 1299, "category": "Electronics", "tags": "tech, audio, wireless, bluetooth, earbuds, bass, boat"},
+  {"id": 8, "name": "Casio Vintage Digital Watch", "price": 1695, "category": "Accessories", "tags": "men, women, unisex, watch, digital, vintage, gold"},
+  {"id": 9, "name": "Adidas Strutter Walking Shoes", "price": 3899, "category": "Footwear", "tags": "sports, brand, premium, white, shoes, men, walking"},
+  {"id": 10, "name": "Roadster Casual Cotton Shirt", "price": 599, "category": "Apparel", "tags": "men, casual, shirt, black, cotton, outfit"}
+]
